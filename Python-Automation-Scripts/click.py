@@ -12,7 +12,7 @@ distribute verbatim copies of this license document,
 but changing it is not allowed.
 
 Note: For detailed license information, 
-please read the LICENSE file in the repository[Repository Name: Automation]
+please read the LICENSE file in the repository[Repository Name: Python-Automation]
 """
 
 """
