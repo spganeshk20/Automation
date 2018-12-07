@@ -15,4 +15,4 @@
 Automating the manual task using python by making system intelligent with our logical code - Life Made Easy
 
 Programming language
-  1. Python
+  1. Python 2.7
